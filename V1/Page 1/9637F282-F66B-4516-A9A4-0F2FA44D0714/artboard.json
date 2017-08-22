@@ -39,15 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "EAB27CAD-7403-45DC-80B4-386405D26CBD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "042E11DE-CEE3-4B2A-B9F3-1C052995A69F"
     }
   ],
   "name": "Artboard",
