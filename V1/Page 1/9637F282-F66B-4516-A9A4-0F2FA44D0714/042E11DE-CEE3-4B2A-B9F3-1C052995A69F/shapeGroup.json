@@ -14,10 +14,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
     "height": 72,
     "width": 132.0210102975449,
     "x": 35,
     "y": 234
+=======
+    "height": 166,
+    "width": 190,
+    "x": 269,
+    "y": 92
+>>>>>>> parent of 594047d... Added green handle
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,13 +37,9 @@
     {
       "class": "rectangle",
       "id": "EC773CFE-0DA1-46DD-B9CC-D9CD28DEB048"
-    },
-    {
-      "class": "oval",
-      "id": "1C885D0E-7A1D-42D4-B3D2-10740EBE8B9A"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,9 +70,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1652514934539795,
-          "green": 0.3430676162242889,
-          "red": 0.5435072779655457
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": true,
