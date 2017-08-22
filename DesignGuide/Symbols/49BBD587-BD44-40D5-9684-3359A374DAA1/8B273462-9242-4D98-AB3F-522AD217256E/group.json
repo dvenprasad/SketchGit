@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "8B273462-9242-4D98-AB3F-522AD217256E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 76,
+    "x": 76,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "208AD334-26EE-4CCB-A576-5CB3658AFCAD"
+    }
+  ],
+  "name": "paper-menu-button",
+  "nameIsFixed": true,
+  "originalObjectID": "8B273462-9242-4D98-AB3F-522AD217256E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
