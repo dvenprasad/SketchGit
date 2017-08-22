@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "78DF328F-B4E8-4663-BF58-10C991399944",
+  "do_objectID": "086FFEBB-1572-4B97-90DD-9233F64A84E1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 431,
-    "width": 255,
-    "x": 653,
-    "y": 105
+    "height": 409,
+    "width": 118,
+    "x": 644,
+    "y": 92
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -43,7 +43,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "74323C91-43E5-449A-81BD-33C938D1EBF2"
+      "id": "526CF67B-3D21-4765-B600-1BD7C3464E47"
     }
   ],
   "name": "Artboard 2",

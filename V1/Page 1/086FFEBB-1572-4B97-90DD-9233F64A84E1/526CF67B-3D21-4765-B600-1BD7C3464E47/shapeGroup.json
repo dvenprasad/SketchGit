@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "74323C91-43E5-449A-81BD-33C938D1EBF2",
+  "do_objectID": "526CF67B-3D21-4765-B600-1BD7C3464E47",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 60,
-    "x": 56,
-    "y": 76
+    "height": 82,
+    "width": 71,
+    "x": 24,
+    "y": 64
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "oval",
-      "id": "A9266C2C-15B4-44CE-BD62-9F4FFDE2422F"
+      "id": "DC565AC5-8AFC-4C38-AA06-9CD3DAAAAE6E"
     }
   ],
   "name": "Oval 2",
